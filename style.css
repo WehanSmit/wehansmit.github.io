@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background:none;
+}
+.ActualHead{
+    text-align: left;
+    padding: 10px;
+}
+.ActualHead h1{
+    font-weight: bold;
+    color: rgb(47, 39, 78);
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large; 
+    background-color: #89a3ff47;
+}
+.nav-link{
+    color: #000000;
+    font-size: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.5s ease-in;
+}
+.nav-link:hover{
+    color: white;
+    background-color: #89a3ff47;
+}
+h2{
+    text-align: right;
+}
+
+.bt1{
+    padding: 5px;
+    font-weight: 100;
+    background-color: #89a3ff47;
+    border-color: #89a3ff47;
+    color: white;
+}
+.bt2{
+    padding: 5px;
+    font-weight: 100;
+    background-color: #89a3ff47;
+    border-color: #89a3ff47;
+    color: white;
+}
+.navbar navbar-light bg-light{
+    background: none;
+    color: #89a3ff47;
+}
+.btn1{
+    padding: 5px;
+    font-weight: 100;
+    background-color: #89a3ff47;
+    border-color: #89a3ff47;
+    color: white;
+}
+.btn1:hover{
+    border-color: #89a3ff;
+}
+.bt1:hover{
+    border-color: #89a3ff;
+}
+.bt2:hover{
+    border-color: #89a3ff;    
+}
+.card{
+    background-color: #89a3ff47;
+}
+.card-body{
+    color: white;
+}
+
+
+
+
+.Home h1{
+    font-weight: 900;
+}
+.Home h3{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+
+.About h3{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+.Projects h3{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+.Contact h3{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+footer{
+    margin-top: 5%;
+    padding: 10px;
+    
+    margin-bottom: 00%;
+    background: #89a3ff47;
+}
+
+
+
+
+
+
